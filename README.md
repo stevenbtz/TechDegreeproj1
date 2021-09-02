@@ -1,2 +1,2 @@
-# TechDegreeproj1
+# TechDegree Project 1
  first repo
